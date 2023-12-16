@@ -1,5 +1,5 @@
 Jypter notebook in this repository looks at Sample car data with 
-Features:
+Features I used to evaluate the models
 ['region', 'price', 'year', 'manufacturer', 'model', 'fuel', 'odometer',
        'title_status', 'transmission', 'type', 'state']
 And tries to answer the following questions
@@ -13,3 +13,5 @@ Model, region, year
 What Alogirthm can be used for  training ?
 Linear Regression and Ridge Regression
 
+Vehicle Data can be downloaded from here : 
+https://mo-pcco.s3.us-east-1.amazonaws.com/BH-PCMLAI/module_11/practical_application_II_starter.zip

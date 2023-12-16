@@ -1,0 +1,15 @@
+Jypter notebook in this repository looks at Sample car data with 
+Features:
+['region', 'price', 'year', 'manufacturer', 'model', 'fuel', 'odometer',
+       'title_status', 'transmission', 'type', 'state']
+And tries to answer the following questions
+
+What factors make the car more or less expensive ?
+Model, Region, title_status, transmision, year
+What features can drive the car price ?
+Manfacture, Year, tansmission, state
+Would correlation matrix help determine what features are important?
+Model, region, year
+What Alogirthm can be used for  training ?
+Linear Regression and Ridge Regression
+
